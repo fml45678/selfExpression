@@ -5,7 +5,7 @@ import "./App.css";
 function App() {
   return (
     <div className="home">
-      <video src="selfBackground.mp4" autoPlay muted loop></video>
+      <video src="selfBackground.mp4" autoPlay muted loop playsInline></video>
       <div>
         <h1 id="title">Self Expression</h1>
         <h3 id="name">by Yiseul LeMieux</h3>
