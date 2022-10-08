@@ -4,13 +4,13 @@ import "./App.css";
 
 function App() {
   return (
-    <div>
+    <div className="home">
       <video src="selfBackground.mp4" autoPlay muted loop></video>
       <div>
-        <h1>Self Expression</h1>
-        <h3>by Yiseul LeMieux</h3>
+        <h1 id="title">Self Expression</h1>
+        <h3 id="name">by Yiseul LeMieux</h3>
       </div>
-      <div>
+      <div className="expContainer">
         <p id="explanation">
           Self Expression is a collective interdisciplinary work that began from
           the idea of having a “safe space” to express who I really am. Safe

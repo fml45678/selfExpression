@@ -1,5 +1,25 @@
 :root {
-  background-color: rgb(187, 135, 135);
+  /* background-color: rgb(187, 135, 135); */
   height: 100vh;
   color: rgb(237, 9, 9);
+}
+/* width */
+::-webkit-scrollbar {
+  width: 1vw;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #231717;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  border-radius: 2vw;
+  background: rgb(199, 17, 17);
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
 }
