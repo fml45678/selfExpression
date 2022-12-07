@@ -21,9 +21,11 @@ video {
 
 #title {
   font-size: 6vw;
+  font-family: "Comfortaa", cursive;
 }
 #name {
   font-size: 3vw;
+  font-family: "Comfortaa", cursive;
 }
 
 #explanation {
@@ -33,6 +35,9 @@ video {
   font-family: "Comfortaa", cursive;
   width: 50vw;
   line-height: 5vw;
-  /* background-color: rgba(80, 2, 10, 0.05); */
   padding: 3vw 3vw 3vw 3vw;
+}
+
+#explanation:hover {
+  background-color: rgba(242, 3, 27, 0.19);
 }
