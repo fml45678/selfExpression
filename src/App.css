@@ -41,3 +41,12 @@ video {
 #explanation:hover {
   background-color: rgba(242, 3, 27, 0.19);
 }
+
+iframe {
+  margin-top: 5vw;
+  margin-bottom: 15vw;
+}
+
+a {
+  color: white;
+}

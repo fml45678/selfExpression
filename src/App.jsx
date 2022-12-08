@@ -30,6 +30,24 @@ function App() {
           from this analysis and my move towards self expression.
         </p>
       </div>
+      <iframe
+        width="560"
+        height="315"
+        src="https://www.youtube.com/embed/ADZYn3cOp-o"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen
+      ></iframe>
+      <div>
+        <p id="explanation">
+          for booking information contact info@yiseullemieux.com
+        </p>
+        <p id="explanation">
+          for more of Yiseul's work visit her{" "}
+          <a href="https://yiseullemieux.com">website</a>
+        </p>
+      </div>
     </div>
   );
 }
