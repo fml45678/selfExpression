@@ -45,6 +45,7 @@ video {
 iframe {
   margin-top: 5vw;
   margin-bottom: 15vw;
+  border-radius: 3vw;
 }
 
 a {
